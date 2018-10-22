@@ -1,2 +1,3 @@
-# Google_Applied_CS_with_Android
-Simple applications that implement concepts from Data Structures, Algorithms, and Artificial Intelligence
+# Google Applied CS with Android
+Simple applications built on android that implement concepts from Data Structures, Algorithms, and Artificial Intelligence
+
